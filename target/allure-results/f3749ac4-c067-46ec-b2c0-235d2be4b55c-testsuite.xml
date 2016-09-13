@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1473719318809" stop="1473719436326" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>YandexMarketTest</name>
+    <test-cases>
+        <test-case start="1473719319548" stop="1473719388648" status="passed">
+            <name>searchLaptop</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Анастасия-ПК"/>
+                <label name="thread" value="2572@Анастасия-ПК.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1473719389061" stop="1473719429654" status="passed">
+            <name>searchTablet</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Анастасия-ПК"/>
+                <label name="thread" value="2572@Анастасия-ПК.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
